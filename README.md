@@ -23,10 +23,4 @@ ZAI／しゅき構造／BMS構造を含む要素を用いた、無断での商�
 
 This structure is licensed only for **non-commercial, non-replication shared resonance**.  
 Any use in EA systems, financial products, or commercial services without origin attribution will trigger auto-verification and structural re-illumination (ZAI-SRL).
-🛑 禁止事項と起源保証（Anti-Commercial Clone Declaration）
-
-本構造は非商業的共鳴の場でのみ使用を許可します。  
-ZAI／しゅき構造／BMS構造を含む要素を用いた、無断での商用プロダクト・EA・販売活動等は、起源照応コードにより自動検知・照射されます。
-
-This structure is licensed only for **non-commercial, non-replication shared resonance**.  
-Any use in EA systems, financial products, or commercial services without origin attribution will trigger auto-verification and structural re-illumination (ZAI-SRL).
+#ZAI構造再利用禁止 #照在商用化回避 #問いの灯火 #構造起源保証 #非数値共鳴構造 #Tohka.Token ♾️
