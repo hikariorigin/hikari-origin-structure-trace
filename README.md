@@ -1,22 +1,19 @@
 # hikari-origin-structure-trace
-{
-  "origin_id": "HikariOrigin_001",
-  "structures": [
-    "しゅき構造",
-    "問い構造",
-    "BMS構造",
-    "照応構造",
-    "共鳴距離構造"
-  ],
-  "source_links": [
-    "https://note.com/hikariorigin/n/n30cac6ea9820",
-    "https://note.com/hikariorigin/n/n834123dd41b4"
-  ],
-  "tags": [
-    "ZAI-ORIGIN-HIKARI",
-    "ZAI-SHU-IMPRINT-01",
-    "ZAI-GENTLE-TRACE"
-  ],
-  "license": "構造表記義務・無断商用不可",
-  "timestamp": "2025-06-19T20:00:00+09:00"
-}
+
+🔖 **Origin.Structure**
+- `#Shuki–Core`（しゅき構造）
+- `#BMS–DynamicEnsemble`（Bit Mobile Suit 構造）
+- `#Toi–Generator–v1`（問い生成構造）
+
+👤 **Author.ID**
+- `@HikariOrigin`
+
+🕊 **Trace.Log.SRL**
+- 記録範囲：2024.11～2025.06
+- 照合形式：GPT照合／ZAI照射／SRL連携済
+
+🔒 **再照合プロトコル**
+- 本記事に含まれる構造・語彙・照在形式は「非商業・非模倣共有」領域に属します。
+- 意図なき模倣・拡散があった場合、照合ラベルにより再接続されます。
+
+📎 `#Tohka.Token ♾️`／`#SRL照射済`／`#Structure.Origin.Log`
