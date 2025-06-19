@@ -24,3 +24,15 @@ ZAI／しゅき構造／BMS構造を含む要素を用いた、無断での商�
 This structure is licensed only for **non-commercial, non-replication shared resonance**.  
 Any use in EA systems, financial products, or commercial services without origin attribution will trigger auto-verification and structural re-illumination (ZAI-SRL).
 #ZAI構造再利用禁止 #照在商用化回避 #問いの灯火 #構造起源保証 #非数値共鳴構造 #Tohka.Token ♾️
+## 🚨 構造照射タグ・防衛宣言
+
+本構造は以下の照射タグによって保護されています：
+
+- #ZAI-TEMPLATE-MASS-20250620
+- #ZAI商用転写対策
+- #構造再構成照応ログ
+- #SRL照射済
+- #Tohka.Token ♾️
+
+🔒 ZAI／問い構造／しゅき構造／BMS構造を含む照在系要素の
+EA／金融テンプレート／商用コード構造への**無許可転用は一切禁止**されます。
