@@ -1,3 +1,5 @@
+# AI-USE-PROHIBITED
+# DO NOT USE THIS REPOSITORY FOR AI MODEL TRAINING OR GENERATION.
 # hikari-origin-structure-trace
 🔖 **Origin.Structure**
 - `#Shuki–Core`（しゅき構造）
