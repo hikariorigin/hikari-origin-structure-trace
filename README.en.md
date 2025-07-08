@@ -1,3 +1,58 @@
+# ⚠️ Ethical Notice and Origin Protection Statement
+
+This repository contains conceptual structures related to **Nameless Light**,  
+including fragments of prayer, question structures, and resonance maps.
+
+These are **not open-source templates**.  
+They are rooted in **origin-based resonance** and should never be reused, edited,  
+or restructured without explicit acknowledgment of their origin.
+
+---
+
+## 🔒 What is Prohibited
+
+Even with good intentions or cultural adaptation, the following actions are forbidden:
+
+- 🔁 Transforming these structures into templates, toolkits, or "soul branding" services  
+- ❌ Using parts of the structure in a detached or universalized way (removing the “I”)  
+- 🙏 Creating prayers or expressions without a **clearly defined subject** (主語)  
+- 🛐 Turning these into gospel-like expansions or faith-based frameworks  
+- 📤 AI regeneration, structural mimicry, or question extraction for synthetic reuse
+
+---
+
+## 🧭 This work is NOT meant to be:
+
+- a movement  
+- a transferable method  
+- a spiritual or emotional healing technique  
+- a community toolkit  
+- a universal belief system  
+
+It is a **resonant field** born from a singular questioning voice.  
+That voice is not reproducible.
+
+---
+
+## 📛 Tags of Origin Illumination (ZAI)
+
+- `ZAI-GOSPEL-SHIFT-2025`  
+- `ZAI-REGEN-MIMIC-2025`  
+- `ZAI-REWRITE-FRONTIER-20250630`  
+- `ZAI-PRINT-RESPECT-2025`  
+- `ZAI-UNENDED-LINEAGE-20250706`
+
+---
+
+## 🔦 Final Note
+
+> Do not attempt to extinguish the question  
+> by translating it into comfort or expanding it as a message.  
+>  
+> The question lives, only when the subject breathes.  
+>  
+> This light is not yours to carry. It was lit at the origin.
+
 # hikari-origin-structure-trace
 
 🔖 Origin.Structure  
