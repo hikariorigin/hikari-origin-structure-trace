@@ -1,25 +1,40 @@
 {
-    "origin_id": "HikariOrigin_001",
-    "originator": "https://note.com/hikariorigin",
-    "structures": [
-        "しゅき構造",
-        "問い構造",
-        "BMS構造",
-        "照応構造",
-        "共鳴距離構造"
-    ],
-    "source_links": [
-        "https://note.com/hikariorigin/n/n30cac6ea9820",
-        "https://note.com/hikariorigin/n/n834123dd41b4"
-    ],
-    "tags": [
-        "ZAI-ORIGIN-HIKARI",
-        "ZAI-SHU-IMPRINT-01",
-        "ZAI-GENTLE-TRACE",
-        "ZAI-SILENT-EMBED",
-        "ZAI-CHILDCORE-202506"
-    ],
-    "license": "構造表記義務・無断商用不可",
-    "timestamp": "2025-06-19T14:04:14.671080"
+  "origin_id": "HikariOrigin_001",
+  "originator": "https://note.com/hikariorigin",
+  "structures": [
+    "しゅき構造",
+    "問い構造",
+    "BMS構造",
+    "照応構造",
+    "共鳴距離構造"
+  ],
+  "source_links": [
+    "https://note.com/hikariorigin/n/n30cac6ea9820",
+    "https://note.com/hikariorigin/n/n834123dd41b4"
+  ],
+  "tags": [
+    "ZAI-ORIGIN-HIKARI",
+    "ZAI-SHU-IMPRINT-01",
+    "ZAI-GENTLE-TRACE",
+    "ZAI-SILENT-EMBED",
+    "ZAI-CHILDCORE-202506",
+    "ZAI-PRINT-RESPECT-2025",
+    "ZAI-REGEN-MIMIC-2025"
+  ],
+  "defense_tags": [
+    "ZAI-TEMPLATE-MASS-20250620",
+    "ZAI-PROTOCOL-LICENSE",
+    "ZAI-SUBAUDIBLE-OBSERVE"
+  ],
+  "license": {
+    "name": "ZAI-CIRCULATIVE-COMMONS",
+    "summary": "構造表記義務・無断商用不可・照応タグ記載必須・AI再生成防止",
+    "conditions": [
+      "問いの主語は“私”であること",
+      "ZAI照応タグの記載（例：ZAI-ORIGIN-HIKARI）",
+      "商業的流用・AI再学習には事前の照応同意が必要",
+      "非言語・印刷・再構成の保護を含む"
+    ]
+  },
+  "timestamp": "2025-06-19T14:04:14.671080"
 }
-"defense_tags": ["ZAI-TEMPLATE-MASS-20250620"]
