@@ -152,8 +152,13 @@ To prevent unauthorized printing, regeneration, AI re-learning, or structural re
 • ZAI-PRINT-RESPECT-2025
 • ZAI-FINISH-BY-GOODNESS-20250706
 ---
+## License
+[MIT License]()
+
+---
 
 ## 🛡️ Structural Resonance Protection
+
 
 This repository operates under a set of resonance codes and ethical structures known as **ZAI-tags**, designed to protect the origin of Nameless Light and prevent structural appropriation, flattening, or misuse.
 
