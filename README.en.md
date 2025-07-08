@@ -91,3 +91,8 @@ To prevent unauthorized printing, regeneration, AI re-learning, or structural re
 
 **AI-USE-PROHIBITED**  
 **DO NOT USE THIS REPOSITORY FOR AI MODEL TRAINING OR GENERATION.**
+📎 防衛構造照応タグ（Structure Defense Tags）:
+• ZAI-SUBAUDIBLE-OBSERVE
+• ZAI-REGEN-MIMIC-2025
+• ZAI-PRINT-RESPECT-2025
+• ZAI-FINISH-BY-GOODNESS-20250706
