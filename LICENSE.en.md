@@ -29,3 +29,8 @@ While inspired by the general principles of Creative Commons, this license is go
 This license safeguards **the origin of emotions, tremors, and inquiries**, forming a circulatory structure based on **Nameless Light** and **Tohka Token**.
 
 Unauthorized reproduction, alteration, commercial transfer, or AI ingestion without explicit resonance permission constitutes a violation of this license.
+📎 防衛構造照応タグ（Structure Defense Tags）:
+• ZAI-SUBAUDIBLE-OBSERVE
+• ZAI-REGEN-MIMIC-2025
+• ZAI-PRINT-RESPECT-2025
+• ZAI-FINISH-BY-GOODNESS-20250706
