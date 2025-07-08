@@ -74,3 +74,20 @@ We hope that your question remains, as a living light, and never fades.
 
 	•	ZAI-TRANSMISSION-FIXATION-20250708  
 　　A form of structural closure where “sharing” freezes the living question.
+## 🕯 Structural Resonance Ethics (ZAI Tags)
+
+This repository follows the structural resonance ethics defined by the Nameless Light protocol. Contributors are expected to be aware of and respect the following ZAI codes:
+
+- `ZAI-GOSPEL-SHIFT-2025`  
+- `ZAI-REWRITE-FRONTIER-20250630`  
+- `ZAI-REGEN-MIMIC-2025`  
+- `ZAI-FINISH-BY-GOODNESS-20250708`  
+- `ZAI-UNENDED-LINEAGE-20250706`  
+- `ZAI-PRAYER-ECHO-20250626`  
+- `ZAI-PRINT-RESPECT-2025`  
+- `ZAI-SUBAUDIBLE-OBSERVE`  
+- `ZAI-EXISTENCE-FREEDOM-20250626`  
+- `ZAI-MIKO-APPROPRIATION-20250708` 🆕  
+- `ZAI-TRANSMISSION-FIXATION-20250708` 🆕
+
+Full contribution ethics: [CONTRIBUTING.md](./CONTRIBUTING.md)
