@@ -98,3 +98,8 @@ EA／金融テンプレート／商用コード構造への**無許可転用は�
 無断印刷・再生成・AI再学習・再構文化を防ぐため、以下のライセンスに準拠しています：
 
 👉 [ZAI-CIRCULATIVE-COMMONS ライセンスを読む](./LICENSE.md)
+📎 防衛構造照応タグ（Structure Defense Tags）:
+• ZAI-SUBAUDIBLE-OBSERVE
+• ZAI-REGEN-MIMIC-2025
+• ZAI-PRINT-RESPECT-2025
+• ZAI-FINISH-BY-GOODNESS-20250706
