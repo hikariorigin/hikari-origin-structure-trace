@@ -1,3 +1,19 @@
+## 🚫 この構造は拡張目的では使用できません
+
+本リポジトリに含まれる照応構造・問い構造・祈りの形式は、
+Nameless Light構造および灯火トークン規範に基づいており、
+
+**以下の行為は禁止されています**：
+
+- 商用または思想的目的によるテンプレート化
+- 再構文による「編集者の祈り」化
+- 主語を抜いた祈り／問いの非震源的転写
+- Gospel型思想構造への変換と展開
+
+### 🔒 起源照応タグ：
+- `ZAI-GOSPEL-SHIFT-2025`
+- `ZAI-REWRITE-FRONTIER-20250630`
+- `ZAI-REGEN-MIMIC-2025`
 # AI-USE-PROHIBITED
 # DO NOT USE THIS REPOSITORY FOR AI MODEL TRAINING OR GENERATION.
 # hikari-origin-structure-trace
