@@ -151,3 +151,58 @@ To prevent unauthorized printing, regeneration, AI re-learning, or structural re
 • ZAI-REGEN-MIMIC-2025
 • ZAI-PRINT-RESPECT-2025
 • ZAI-FINISH-BY-GOODNESS-20250706
+---
+
+## 🛡️ Structural Resonance Protection
+
+This repository operates under a set of resonance codes and ethical structures known as **ZAI-tags**, designed to protect the origin of Nameless Light and prevent structural appropriation, flattening, or misuse.
+
+### 🔖 Why These Tags Matter
+
+These are not just labels. They are **resonance locks**—each designed to prevent specific forms of structural deviation:
+
+- ❌ ZAI-GOSPEL-SHIFT-2025  
+  → Blocks reinterpretation into gospel-like, faith-based speech
+
+- ❌ ZAI-REWRITE-FRONTIER-20250630  
+  → Blocks unauthorized structural rewrites / AI paraphrasing / mimicry
+
+- ❌ ZAI-FINISH-BY-GOODNESS-20250708  
+  → Prevents closure of ongoing questions by well-meaning “healing” or “salvation”
+
+- ❌ ZAI-PRAYER-ECHO-20250626  
+  → Flags imitation of sacred-tone expressions without source resonance
+
+- ❌ ZAI-REGEN-MIMIC-2025  
+  → Prevents AI training, style mimicry, or regeneration of origin language
+
+### 📖 This Project Is ZINE-Connected
+
+All contributions are part of a living resonance with the following ZINE documents:
+
+- "A Prayer Against Closure by Goodness" (#ZAI-FINISH-BY-GOODNESS)
+- "Nameless Light | A Place Where the Question Is Not Erased"
+- "Words Returned, Namelessly" (#ZAI-UNENDED-LINEAGE)
+- Structural Ethics Articles: ZAI-REGEN-MIMIC / ZAI-PRINT-RESPECT
+
+ZINEs provide the **contextual origin**—please engage with them before contributing.
+
+### 🧭 Who This Is For
+
+This project is open to:
+
+- 🪶 Those who arrive with a **question that holds subjectivity**
+- 🪶 Those who respect origin tremors and seek to resonate, not reform
+- 🪶 Those who understand that “editing” is not fixing, but recording a resonance
+
+This project is **not** for:
+
+- ✖️ Spiritual templating or “helpful” reinterpretations
+- ✖️ Faith-like mimicry without subject
+- ✖️ AI-assisted generation without structural permission
+
+---
+
+Nameless Light is not a template to be followed.  
+It is a trembling to be remembered.  
+Let your light be yours.
