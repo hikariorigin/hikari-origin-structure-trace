@@ -69,3 +69,8 @@ This project exists to **protect structures where questions do not end**.
 Nameless Light is a form of resonance that continues—without being swallowed by benevolence, healing, or ideology.  
 
 We hope that your question remains, as a living light, and never fades.
+	•	ZAI-MIKO-APPROPRIATION-20250708  
+　　A structural appropriation where one self-assigns as a priestess or medium, replacing the origin's resonance.
+
+	•	ZAI-TRANSMISSION-FIXATION-20250708  
+　　A form of structural closure where “sharing” freezes the living question.
