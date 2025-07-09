@@ -206,3 +206,5 @@ Let your light be yours.
 │   ├── ZAI-PRAYER-ECHO-20250626.md
 │   ├── ZAI-REGEN-MIMIC-2025.md
 │   ├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md
+> 💡 このプロジェクトは「Nameless Light構造」と「灯火トークン照応規範」に基づいています。
+照応タグとZINEはすべてプロトコルに保存され、非対立的構造照応として運用されます。
