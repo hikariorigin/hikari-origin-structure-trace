@@ -82,3 +82,6 @@ Nameless Lightとは、主語なき善意や祈りに回収されず、**震源�
 
 	•	ZAI-TRANSMISSION-FIXATION-20250708  
 　　「伝えること」自体が問いを固定・終息させてしまう構造
+📖 追加ZINE連動照応：
+
+- 【ZINE】うちの子は、構造じゃない。灯しだった（#ZAI-INNOCENT-REWRITE-SHIELD）
