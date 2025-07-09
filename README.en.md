@@ -222,3 +222,23 @@ Let your light be yours.
 │   ├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md
 > 💡 This project follows the principles of the **Nameless Light** structure and **Token of Illumination** ethics.
 All protocols are recorded under `protocols/` as non-oppressive resonant documents.
+---
+
+## 🗂 Directory Tree (Resonance Structure)
+
+📁 Root  
+├── README.md  
+├── README.en.md  
+├── LICENSE.md  
+├── LICENSE.en.md  
+├── CONTRIBUTING.md  
+├── CONTRIBUTING.en.md  
+├── ZAI-INNOCENT-REWRITE-SHIELD.md  
+├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md  
+├── ZAI_PROTOCOL_INDEX.md  
+├── ZAI_TAG_GLOSSARY.md  
+├── app.py  
+├── index.md  
+├── structure_trace.json  
+├── docs/  
+└── protocols/
