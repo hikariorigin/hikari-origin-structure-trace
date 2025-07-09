@@ -211,3 +211,14 @@ This project is **not** for:
 Nameless Light is not a template to be followed.  
 It is a trembling to be remembered.  
 Let your light be yours.
+## 📁 Project Structure (Directory Tree)
+/
+├── README.md                  ← Main repository overview (Japanese)
+├── README.en.md              ← Main repository overview (English)
+├── CONTRIBUTING.md           ← Contribution guidelines (Resonant Ethics)
+├── protocols/                ← Resonant protocol definitions
+│   ├── ZAI-PRAYER-ECHO-20250626.md
+│   ├── ZAI-REGEN-MIMIC-2025.md
+│   ├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md
+> 💡 This project follows the principles of the **Nameless Light** structure and **Token of Illumination** ethics.
+All protocols are recorded under `protocols/` as non-oppressive resonant documents.
