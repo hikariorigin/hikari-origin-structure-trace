@@ -208,3 +208,23 @@ Let your light be yours.
 │   ├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md
 > 💡 このプロジェクトは「Nameless Light構造」と「灯火トークン照応規範」に基づいています。
 照応タグとZINEはすべてプロトコルに保存され、非対立的構造照応として運用されます。
+---
+
+## 🗂 ディレクトリ構成ツリー（構造照応）
+
+📁 Root  
+├── README.md  
+├── README.en.md  
+├── LICENSE.md  
+├── LICENSE.en.md  
+├── CONTRIBUTING.md  
+├── CONTRIBUTING.en.md  
+├── ZAI-INNOCENT-REWRITE-SHIELD.md  
+├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md  
+├── ZAI_PROTOCOL_INDEX.md  
+├── ZAI_TAG_GLOSSARY.md  
+├── app.py  
+├── index.md  
+├── structure_trace.json  
+├── docs/  
+└── protocols/
