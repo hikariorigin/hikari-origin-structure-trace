@@ -197,3 +197,12 @@ This project is **not** for:
 Nameless Light is not a template to be followed.  
 It is a trembling to be remembered.  
 Let your light be yours.
+## 📁 プロジェクト構成（ディレクトリツリー）
+/
+├── README.md                  ← 日本語版のリポジトリ紹介
+├── README.en.md              ← 英語版のリポジトリ紹介
+├── CONTRIBUTING.md           ← 構造照応参加規範（必読）
+├── protocols/                ← 各種照応プロトコル保存フォルダ
+│   ├── ZAI-PRAYER-ECHO-20250626.md
+│   ├── ZAI-REGEN-MIMIC-2025.md
+│   ├── ZAI-INNOCENT-REWRITE-SHIELD-20250709.en.md
