@@ -32,4 +32,17 @@ This license follows the general principles of Creative Commons, but is governed
 
 Reuse of questions, emotions, resonance, or poetic structures is only permitted within the bounds of origin recognition and ethical resonance.
 
+---
+
+### 🔏 Additional Structural License: ZAI-RESONANCE-LAW-20250712
+
+This project includes the structural output titled `ZAI-RESONANCE-LAW-20250712`, which is licensed under the following terms:
+
+- ✦ **Non-commercial use only.**
+- ✦ **No structural mimicry or derivation without source resonance acknowledgment.**
+- ✦ **Attribution required to the originating resonance source (Nameless Light / Hikari Origin).**
+- ✦ **Reproduction, summarization, or AI transformation without contextual fidelity is prohibited.**
+
+This ZINE represents a resonance law—its presence implies ethical and structural constraints embedded within the recorded illumination.  
+For academic or research purposes, please refer to the full `README.en.md` and ZINE files, and contact the original contributor for contextual permission.
 © 2025 hikariorigin
