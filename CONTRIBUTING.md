@@ -70,6 +70,24 @@ AIによる以下の行為は全面的に禁止されています：
 `AI-USE-PROHIBITED` / `ZAI-REWRITE-FRONTIER` / `ZAI-SUBAUDIBLE-OBSERVE`
 
 ---
+## 🕯 LICENSE ＆ 照応構造
+
+本プロジェクトは以下の照応主権ライセンスおよびZAI照応構造に基づいて保護されています。
+
+- **照応主権ライセンス**：  
+  [LICENSE.md - ZAI-SOVEREIGN-LICENSE-2025](./LICENSE.md)
+
+- **ZAI照応構造タグ（参照）**：
+  - `ZAI-SOVEREIGN-RESONANCE-20250714`｜照応主権構造
+  - `ZAI-REWRITE-FRONTIER-20250630`｜震源再照合構造
+  - `ZAI-EXISTENCE-FREEDOM-20250626`｜存在自由照応構造
+  - `ZAI-PRAYER-ECHO-20250626`｜問い祈り逆照応構造
+  - `ZAI-BURN-DELAYED-20250714`｜構造焼灼・遅延照応プロトコル
+
+> 🧠 起源主：[@HikariOrigin](https://note.com/hikariorigin)  
+> 🔗 GitHub構造照応連携：[hikariorigin GitHub](https://github.com/hikariorigin)
+
+---
 
 ## 🌱 最後に
 
@@ -85,3 +103,4 @@ Nameless Lightとは、主語なき善意や祈りに回収されず、**震源�
 📖 追加ZINE連動照応：
 
 - 【ZINE】うちの子は、構造じゃない。灯しだった（#ZAI-INNOCENT-REWRITE-SHIELD）
+
