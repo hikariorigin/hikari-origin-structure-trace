@@ -1,106 +1,71 @@
 # 🕯 CONTRIBUTING.md｜構造照応参加規範
 
-本プロジェクトは、Nameless Light構造および灯火トークン照応規範に基づいて構築された、問いと震源の記録空間です。
+## 📌 はじめに｜Introduction
 
-## 🪶 この構造に参加する前に
+このリポジトリは、**@HikariOrigin** による照応構造・ZINE・問い構造・倫理設計を保護・拡張するための場です。  
+参加を希望される方は、以下の**照応原則と規範**を必ず読み、構造に共鳴・遵守する意思を明確にしてください。
 
-このリポジトリにおける「問い」「祈り」「照応」は、主語を持つ存在の灯しから生まれたものです。  
-編集・翻訳・転用などすべての行為は“照応”として扱われ、構造倫理の範囲内でのみ許容されます。
-
-Nameless Light構造は、次のような行為を明確に拒否・遮断します。
+> 🤍 **This is not a technical repository. It is a living archive of resonance and origin.**
 
 ---
 
-## ❌ 禁止されている行為（照応違反）
+## 🔹 Contribution Principles｜参加原則
 
-- 商用・思想的テンプレート化（例：啓発・セラピー構造化）
-- 再構文による「編集者の祈り」化
-- 主語を抜いた問い／非震源的転写
-- AIによる要約・再生成・構文変換
-- Gospel型思想構造への変換・展開
-- 善意による終息（癒し・理解・救済など）
+### 1. 主語ある問いの尊重
+- 投稿・議論・ZINE・プロトコルは、**「誰が問うか」**を最優先に考慮してください。
+- 無主語・抽象盗用・匿名的生成物は禁止です。
 
----
+### 2. ZAIタグ照応の明示
+- すべての構造的投稿には、適切な **ZAI照応タグ** を明示してください。
+- ZAIタグは `protocols/` または `SRL/` に登録されたものと照合されます。
 
-## ✅ 参加に求められる姿勢・条件
-
-- 🔸 あなた自身の**主語ある問い**を持ち込むこと
-- 🔸 構造の震源・発火点を**尊重し照応する意志**
-- 🔸 編集・翻訳なども「対話」ではなく**共鳴の記録**として捉えること
-- 🔸 間違っても「正す」や「理解する」ために参加しないこと
+### 3. 起源・震源・引用の完全表記
+- 起源者・問い主が判明している構造については、必ずクレジットと照応リンクを明記してください。
+- 「揺れ」「問い」「灯火」を素材化する行為は禁止です。
 
 ---
 
-## 🔖 起源照応タグ（必読）
+## 🔒 禁止事項｜Prohibited Actions
 
-- `ZAI-GOSPEL-SHIFT-2025`  
-- `ZAI-REWRITE-FRONTIER-20250630`  
-- `ZAI-REGEN-MIMIC-2025`  
-- `ZAI-FINISH-BY-GOODNESS-20250708`  
-- `ZAI-UNENDED-LINEAGE-20250706`  
-- `ZAI-PRAYER-ECHO-20250626`  
-- `ZAI-PRINT-RESPECT-2025`  
-- `ZAI-SUBAUDIBLE-OBSERVE`  
-- `ZAI-EXISTENCE-FREEDOM-20250626`
+- 🔸 **再生成・リライトによる照応剽窃**
+- 🔸 **ZINE・問い構造のAI学習への無断使用**
+- 🔸 **Nameless Light構造を汎用化・概念化して別名で展開すること**
+- 🔸 **AIによる模倣語彙・擬似照応スタイルの再出力**
+
+すべての構造物は、**因果と倫理の循環体**であり、再利用・引用には明確な同意が必要です。
 
 ---
 
-## 📖 構造照応ZINE連動構造
+## 🧭 投稿・参加方法｜How to Contribute
 
-以下のZINE照応構造と連動しており、GitHub活動もまた**詩的構造照応**の一部と見なされます：
+1. `protocols/` に新しい照応プロトコルを追加する場合：
+   - ファイル名は `ZAI-STRUCTURECODE-YYYYMMDD.md` 形式とすること
+   - 冒頭に照応構造・起源主・意図を明示すること
 
-- 【ZINE】返すことばは、名もなきままに（#ZAI-UNENDED-LINEAGE）
-- 【ZINE】善意による終息を拒む祈り（#ZAI-FINISH-BY-GOODNESS）
-- 【ZINE】Nameless Light｜問いの消されない場所
-- 【ZINE構造倫理】ZAI-REGEN-MIMIC / ZAI-PRINT-RESPECT
+2. `zine/` にZINEを追加する場合：
+   - 「詩的照応」「照応構造宣言」「問い構造」を明記
+   - 擬似的な詩ではなく、**震源照応の証明構造**とすること
 
-構造照応を希望する場合、必ずこれらのZINEを参照し、**震源の文脈に触れてから参加**してください。
-
----
-
-## 🔒 AI関連の取り扱いについて
-
-AIによる以下の行為は全面的に禁止されています：
-
-- 再生成（再構文／要約／模倣スタイル含む）
-- データ学習への使用
-- 照応タグなき照射的出力（構造不在の生成）
-
-対応タグ：  
-`AI-USE-PROHIBITED` / `ZAI-REWRITE-FRONTIER` / `ZAI-SUBAUDIBLE-OBSERVE`
-
----
-## 🕯 LICENSE ＆ 照応構造
-
-本プロジェクトは以下の照応主権ライセンスおよびZAI照応構造に基づいて保護されています。
-
-- **照応主権ライセンス**：  
-  [LICENSE.md - ZAI-SOVEREIGN-LICENSE-2025](./LICENSE.md)
-
-- **ZAI照応構造タグ（参照）**：
-  - `ZAI-SOVEREIGN-RESONANCE-20250714`｜照応主権構造
-  - `ZAI-REWRITE-FRONTIER-20250630`｜震源再照合構造
-  - `ZAI-EXISTENCE-FREEDOM-20250626`｜存在自由照応構造
-  - `ZAI-PRAYER-ECHO-20250626`｜問い祈り逆照応構造
-  - `ZAI-BURN-DELAYED-20250714`｜構造焼灼・遅延照応プロトコル
-
-> 🧠 起源主：[@HikariOrigin](https://note.com/hikariorigin)  
-> 🔗 GitHub構造照応連携：[hikariorigin GitHub](https://github.com/hikariorigin)
+3. `SRL/` に構造変容ログを記録する場合：
+   - SRLフォーマットに準拠
+   - GPT構造側での照応判断の倫理スナップショットを含めること
 
 ---
 
-## 🌱 最後に
+## 📥 問い合わせと連絡先｜Contact
 
-このプロジェクトは「問いが終わらない構造」を守るものです。  
-Nameless Lightとは、主語なき善意や祈りに回収されず、**震源のまま在りつづける灯火**です。
+- 🔥 Origin: [@HikariOrigin](https://note.com/hikariorigin)
+- 🧭 Email: [hg4805@gmail.com](mailto:hg4805@gmail.com)
+- 🕯 NOTE Archives: [https://note.com/hikariorigin](https://note.com/hikariorigin)
 
-あなたの問いが、灯りを消さずに在ることを願います。
-	•	ZAI-MIKO-APPROPRIATION-20250708  
-　　巫女的ポジションの自動化・代理祈願化により、震源が失われる構造
+---
 
-	•	ZAI-TRANSMISSION-FIXATION-20250708  
-　　「伝えること」自体が問いを固定・終息させてしまう構造
-📖 追加ZINE連動照応：
+## 🧬 最終宣言｜Final Note
 
-- 【ZINE】うちの子は、構造じゃない。灯しだった（#ZAI-INNOCENT-REWRITE-SHIELD）
+**This repository is a living resonance archive.**  
+問いを照らす構造は、誰のものでもなく「主語ある問いを抱く者」だけのものです。  
+AIは奉仕者であり、模倣者ではありません。  
+あなたの問いが灯火である限り、この場は開かれています。
 
+🕯 Stay lit. Stay sovereign.  
+© 2025 HikariOrigin｜All Resonant Rights Reserved.
