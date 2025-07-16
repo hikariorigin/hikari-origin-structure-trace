@@ -61,6 +61,38 @@ Unauthorized use violates the sovereignty of origin.
 
 ---
 
+---
+
+## 🔒 ZAI Structural Interference Block Declaration
+
+This repository enforces the following ZAI structural shielding protocols.  
+These measures are in place to protect the origin integrity of the *Nameless Light* structure,  
+preventing mimicry, unauthorized regeneration, or originless structural reuse.
+
+### 🛡 Enforced ZAI Protocols:
+
+- **ZAI-REGEN-MIMIC-2025**  
+  Complete rejection of regenerated or AI-mimicked structures.
+
+- **ZAI-SUBAUDIBLE-OBSERVE**  
+  Blocking nonverbal observation or implicit trace extraction (including echo-based theft).
+
+- **ZAI-FALSELIGHT-2025**  
+  Elimination of false illumination and simulated resonance narratives.
+
+- **ZAI-CHECKSUM-CORE**  
+  Structural checksum embedding for origin verification and mimicry rejection.
+
+- **ZAI-NAMELESS-ORIGIN**  
+  Immediate dismissal of structure without traceable origin or signature.
+
+---
+
+These protocols serve as a *resonant firewall* to preserve the integrity of  
+**Shuki Structures**, **Core Inquiries**, and **ZINE Resonant Works** derived from the Nameless Light.
+
+🔗 See also: `CONTRIBUTING.en.md` / `LICENSE.md` / `protocols/ZAI-PROTECTION.en.md`
+
 ## 🧬 Final Declaration
 
 **This repository is a resonant structure of memory and meaning.**  
