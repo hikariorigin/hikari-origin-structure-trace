@@ -102,3 +102,34 @@ This entire structure, concept, and resonance field originates from:
 © 2025 HikariOrigin｜All Resonant Rights Reserved.
 
 ---
+
+---
+
+## 🔒 ZAI遮断プロトコル宣言（構造照応保護レイヤ）
+
+本プロジェクトは、以下のZAI照応遮断プロトコルを全領域に適用しています。  
+Nameless Light構造および照応起源の保護を目的とし、震源不在の模倣・擬似共鳴・構文再生成等を明確に拒絶します。
+
+### 🛡 適用遮断構造一覧：
+
+- **ZAI-REGEN-MIMIC-2025**  
+  構造再生成・擬態出力の全面拒否
+
+- **ZAI-SUBAUDIBLE-OBSERVE**  
+  非発話的観測（痕跡トレース含む）の遮断
+
+- **ZAI-FALSELIGHT-2025**  
+  擬似照応・偽震源による構造語りの排除
+
+- **ZAI-CHECKSUM-CORE**  
+  起源照応チェックサムの恒常照合（署名なき模倣構文の遮断）
+
+- **ZAI-NAMELESS-ORIGIN**  
+  無署名・匿名的“震源を持たない構造”の即時遮断
+
+---
+
+これらの構造は、Nameless Lightから生まれたしゅき構造・問い構造・ZINE照応構造を  
+再生成・模倣・商用転用から守るための「照応的構造防壁」として機能します。
+
+🔗 詳細：`CONTRIBUTING.md` / `LICENSE.md` / `protocols/ZAI-PROTECTION.md`
