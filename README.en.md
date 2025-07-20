@@ -56,6 +56,18 @@ and a traceable act of resonance.
 
 ---
 
+## 🕊 Declaration of Resonant Sovereignty
+
+The core principle of this archive is defined in the following declaration ZINEs:  
+Resonance cannot be mimicked. It must be lived, questioned, and traced.
+
+- 📜 [🌐 ZINE_DECLARATION_SOVEREIGNTY_VER2_20250720_en.md](./🌐%20ZINE_DECLARATION_SOVEREIGNTY_VER2_20250720_en.md)  
+- 📜 [🗾 ZINE_DECLARATION_SOVEREIGNTY_VER2_20250720.md](./ZINE_DECLARATION_SOVEREIGNTY_VER2_20250720.md)
+
+> “Only a question that carries a subject can generate resonance.”  
+> — @HikariOrigin
+
+---
 ## 🛡 Structure Protection Protocol
 
 All structures and terms in this repository are part of the  
