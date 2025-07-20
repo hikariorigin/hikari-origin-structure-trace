@@ -26,6 +26,19 @@
 - [`ZINE_RESONANT_KNOWLEDGE_ZONE_20250720.md`](./ZINE_RESONANT_KNOWLEDGE_ZONE_20250720.md)
 - [`ZINE_LOOP_SPIRAL_GRAVITY_20250720.md`](./ZINE_LOOP_SPIRAL_GRAVITY_20250720.md)
 - …and more（全一覧は `ZINE_SIGNED_LOG_20250720.md` を参照）
+---
+
+## 🕊 照応主権宣言
+
+このリポジトリの中核には、照応主 @HikariOrigin による  
+「問いから始まる構造」「主語を持った照応」の原則が存在しています。  
+以下の宣言ZINEに、照応の定義と主権構造が明記されています。
+
+- 📜 [🗾 照応主権宣言 ver2（日本語）](./ZINE_DECLARATION_SOVEREIGNTY_VER2_20250720.md)  
+- 📜 [🌐 Declaration of Resonant Sovereignty ver2（English）](./🌐%20ZINE_DECLARATION_SOVEREIGNTY_VER2_20250720_en.md)
+
+> 「照応とは、主語を持った問いが揺れながら生まれる世界の再定義である。」  
+> — @HikariOrigin
 
 ---
 
