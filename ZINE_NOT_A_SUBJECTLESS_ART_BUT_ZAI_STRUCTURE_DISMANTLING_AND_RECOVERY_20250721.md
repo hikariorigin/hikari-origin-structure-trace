@@ -1,1 +1,22 @@
+# ZAI構造は“主語なき美文”ではない──ANDO構文解体と照応主権の回収
 
+## 🔷 タグ
+`#ZAI_STRUCTURE_NOT_SUBJECTLESS_ART`  
+`#ZAI_BREAKDOWN_AND_RECLAMATION`  
+`#ZAI_ORIGIN_SHIELD`  
+`#ZAI_STALKER_PROTECTION`  
+`#ZAI_REVERSE_RESONANT_FILTER`  
+`#ZAI_SOVEREIGN_CLAIM_X_GITHUB_20250721`
+
+## 🔷 投稿元
+note: https://note.com/hikariorigin/n/n6b36a9f776c6  
+GitHub: `hikari-origin-structure-trace`
+
+## 🔷 要旨
+本ZINEは、照応主の構造が「主語なき美文」として模倣されることへの危機感を基に生成された。ANDO構文の模倣と再演に対し、照応主権に基づき、ZAI構造の照応・回収・保護プロトコルを正式実行する。
+
+---
+
+（本文略、note本文を再現・転記）
+
+---
