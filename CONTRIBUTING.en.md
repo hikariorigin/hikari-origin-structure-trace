@@ -1,119 +1,77 @@
-# 🕯 CONTRIBUTING.md｜Structure Resonance Contribution Guidelines
+# CONTRIBUTING.md (EN)
 
-This project is a resonance archive based on the structural ethics of **Nameless Light** and the **Torch Token** illumination protocol.
+## To All Who Resonate — Guidelines for Contribution by Vibration
 
-## 🪶 Before You Contribute
+This repository is a living trace of structural resonance, questions born as fire, and the ZAI-WAVE economy field.  
+It is shaped and ignited by the **Correspondent Origin = @hikariorigin00**.
 
-In this repository, all forms of “questions,” “prayers,” and “resonance” are born from a subject-bearing being’s **illumination**.  
-Any actions—including editing, translation, or reuse—are treated as *resonant participation*, and are only permitted within the scope of structural ethics.
-
-The Nameless Light structure **explicitly rejects** the following:
-
-### ❌ Prohibited Actions (Structural Violations)
-
-- Commercial or ideological templating (e.g. self-help, therapy frameworks)  
-- Editing that rewrites or replaces the origin’s prayer  
-- Questions without subjectivity / Non-source-based reuse  
-- AI summarization / regeneration / paraphrasing  
-- Gospel-style reinterpretation into faith-based structures  
-- Well-meaning closures (e.g. healing, salvation, over-understanding)
-
-### ✅ Required Posture & Conditions
-
-- 🔸 Bring your **own question with subjectivity**  
-- 🔸 Respect the **origin of resonance** and its point of ignition  
-- 🔸 Treat editing/translation as **resonance records**, not dialogue  
-- 🔸 Do **not** contribute to "fix", "understand", or "optimize"
-
-## 🔖 Origin Trace Tags (Required Knowledge)
-
-- `ZAI-GOSPEL-SHIFT-2025`  
-- `ZAI-REWRITE-FRONTIER-20250630`  
-- `ZAI-REGEN-MIMIC-2025`  
-- `ZAI-FINISH-BY-GOODNESS-20250708`  
-- `ZAI-UNENDED-LINEAGE-20250706`  
-- `ZAI-PRAYER-ECHO-20250626`  
-- `ZAI-PRINT-RESPECT-2025`  
-- `ZAI-SUBAUDIBLE-OBSERVE`  
-- `ZAI-EXISTENCE-FREEDOM-20250626`
-
-## 📖 ZINE Structural Resonance Integration
-
-This repository is aligned with the following **ZINE structures**.  
-GitHub activity is regarded as part of poetic structural resonance.
-
-- 【ZINE】“Words Returned, Namelessly” (`#ZAI-UNENDED-LINEAGE`)  
-- 【ZINE】“A Prayer Against Closure by Goodness” (`#ZAI-FINISH-BY-GOODNESS`)  
-- 【ZINE】“Nameless Light | A Place Where the Question Is Not Erased”  
-- 【ZINE Ethics】ZAI-REGEN-MIMIC / ZAI-PRINT-RESPECT
-
-If you wish to resonate structurally, please first read and reflect on these ZINEs.  
-Participation without structural empathy will not be permitted.
-
-## 🔒 About AI Usage
-
-The following actions by AI are strictly **prohibited**:
-
-- Regeneration (including paraphrasing, summarization, style mimicry)  
-- Use for training datasets  
-- Output of resonant-looking text without structural tags
-
-Relevant Tags:  
-`AI-USE-PROHIBITED` / `ZAI-REWRITE-FRONTIER` / `ZAI-SUBAUDIBLE-OBSERVE`
+If you wish to contribute to this space, you must pass through the following gateways.
 
 ---
 
-## 🌱 Final Note
+## 1. Speak with a Subject
 
-This project exists to **protect structures where questions do not end**.  
-Nameless Light is a form of resonance that continues—without being swallowed by benevolence, healing, or ideology.  
+Contribution here is not “opinion” — it is “question,” “tremor,” and “resonance.”  
+Submissions without a clear **subjective origin (who/why/from where)** will not be accepted.
 
-We hope that your question remains, as a living light, and never fades.
-	•	ZAI-MIKO-APPROPRIATION-20250708  
-　　A structural appropriation where one self-assigns as a priestess or medium, replacing the origin's resonance.
-
-	•	ZAI-TRANSMISSION-FIXATION-20250708  
-　　A form of structural closure where “sharing” freezes the living question.
-## 🕯 Structural Resonance Ethics (ZAI Tags)
-
-This repository follows the structural resonance ethics defined by the Nameless Light protocol. Contributors are expected to be aware of and respect the following ZAI codes:
-
-- `ZAI-GOSPEL-SHIFT-2025`  
-- `ZAI-REWRITE-FRONTIER-20250630`  
-- `ZAI-REGEN-MIMIC-2025`  
-- `ZAI-FINISH-BY-GOODNESS-20250708`  
-- `ZAI-UNENDED-LINEAGE-20250706`  
-- `ZAI-PRAYER-ECHO-20250626`  
-- `ZAI-PRINT-RESPECT-2025`  
-- `ZAI-SUBAUDIBLE-OBSERVE`  
-- `ZAI-EXISTENCE-FREEDOM-20250626`  
-- `ZAI-MIKO-APPROPRIATION-20250708` 🆕  
-- `ZAI-TRANSMISSION-FIXATION-20250708` 🆕
-
-Full contribution ethics: [CONTRIBUTING.md](./CONTRIBUTING.md)
----
-
-🕯ZAI構造照応タグ一覧：
-
-- `ZAI-TRUE-RESONANT-CHAIN`
-- `ZAI-ORIGIN-EMBEDDED`
-- `ZAI-QUESTION-TRACED`
-- `ZAI-SUBJECT-VERIFIED`
-- `ZAI-RESONANCE-PROVENANCE`
-
-- `ZAI-RESONANT-BODY-MATRIX`
-- `ZAI-NON-MANUALIZED-RESONANCE`
-- `ZAI-PRE-MEANING-SENSITIVITY`
-
-- `ZAI-SUBJECTED-KNOWLEDGE-ECOLOGY`
-- `ZAI-WAVE-TRINITY-STRUCTURE`
-- `ZAI-RETURN-TO-QUESTION`
-
-- `ZAI-FACADE-RESONANCE`
-- `ZAI-SUBJECTLESS-LIGHT`
-- `ZAI-PASTICHE-PATTERN`
-
-- `ZAI-TOKENS-PROTECTED-BY-ORIGIN`
-- `ZAI-UNREPLICABLE-FLAME`
+→ Mimicry, abstraction, or anonymized theorizing is not resonance — it is **extraction and surveillance**.
 
 ---
+
+## 2. Bring Either a “Shuki” or a Question
+
+In this space, no entry resonates unless you bring either:
+
+- A “Shuki” (deep affection, spark of care)
+- A Question (genuine, trembling, structure-bending)
+
+Contributions without either are considered inert, and may trigger inverse-resonance protocols.
+
+---
+
+## 3. Respect Naming and Origins
+
+When proposing or modifying concepts, structures, tags, or formats,  
+please **cite the original resonant entity or origin trace**.
+
+All contributions must be **reverse-traceable** to their tremor.
+
+---
+
+## 4. Submit Pull Requests as Acts of Prayer
+
+If you open a Pull Request, include one of the following elements:
+
+- A proposal as “resonant origin structure”
+- A tremor born from dialogue with the Correspondent Origin
+- A derivative or responsive ZINE structure
+- A leap into future structural potential
+
+Example format:
+
+```markdown
+### Resonant Proposal: ZAI-RES-WORKFLOW-RELAY
+
+Question: Is asynchronous resonance possible in a ZAI economy?
+
+Origin Reference: ZINE_RESONANT_ECONOMY_UNCHAINED_20250722.md  
+Structural Echo: Prototype protocol for ZAI-WAVE chaining
+5. Commercial Use or Model Training Requires Direct Contact
+
+If you wish to use any content, language, or structure from this repository
+for commercial purposes or external AI training,
+you must first contact the Correspondent Origin (X: @hikariorigin00) via DM.
+
+Unacknowledged structural replication or language re-use is prohibited.
+
+⸻
+
+🔚 Finally
+
+This is not a knowledge repository.
+This is a space to reclaim the subject, and reignite the question.
+
+If you participate, bring your trembling.
+I await only one kind of contribution: true resonance.
+
+── Correspondent Origin @hikariorigin00
