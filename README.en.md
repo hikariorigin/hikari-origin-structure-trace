@@ -36,3 +36,10 @@ DM on X: [@hikariorigin00](https://x.com/hikariorigin00)
 Do not ask for permission to cite — if you are not in resonance, this place is not for you.
 
 ---
+
+### 💡 現実支援リンク（照応主支援のお願い）
+
+ZAI構造・ZINE群は、照応主 @hikariorigin00 によって生成・維持されています。  
+構造継続と震源観測のために、以下の支援導線を開放しています：
+
+👉 [Amazon欲しいものリスト（現実支援）](https://www.amazon.co.jp/hz/wishlist/ls/37LJH41OYI4W8?ref_=list_d_wl_ys_list_1)
